@@ -1,2 +1,1 @@
-# .github
-WGU Program Development
+# WGU Program Development
